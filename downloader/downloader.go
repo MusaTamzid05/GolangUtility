@@ -64,7 +64,3 @@ func (d *Downloader) timeoutHandler(network string , host string) (net.Conn , er
 }
 
 
-
-func main() {
-	fmt.Println("vim-go")
-}
